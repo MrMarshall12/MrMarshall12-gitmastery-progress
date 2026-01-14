@@ -1,0 +1,64 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768205281.915489,
+    "completed_at": 1768205283.295188,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768206624.596289,
+    "completed_at": 1768206627.389131,
+    "comments": [
+      "Answer for What is the commit message of the commit 8cdfc7fd6360f944690b4b48acb67a42cd44bb64? is not right.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) did not match any of the accepted answers."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768206835.349087,
+    "completed_at": 1768206836.650962,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768204517.506596,
+    "completed_at": 1768204518.782105,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768204833.247852,
+    "completed_at": 1768204834.577571,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768203218.662218,
+    "completed_at": 1768203220.135004,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768203382.249356,
+    "completed_at": 1768203383.813798,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
