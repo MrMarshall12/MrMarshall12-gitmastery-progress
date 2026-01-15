@@ -114,5 +114,14 @@
       "You are not ignoring runaway.txt. Find where the file is and fix that."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1768461361.185882,
+    "completed_at": 1768461363.548037,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
